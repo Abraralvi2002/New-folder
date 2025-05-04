@@ -8,7 +8,7 @@ birdnumber = [16,30,9,20,5]
 vegetable = ['Bean','Bringle','Carrot','Radish','Ladies Finger']
 vegnumb = [10,30,20,15,35]
 fig = p.figure(figsize=(10,5))
-fig.canvas.manager.set_window_title('Made By Md. Abrar Siddiqui')
+fig.canvas.manager.set_window_title('Made By Md. Abrar Siddiqui CSE 63(D)')
 p.subplot(2,2,1)
 p.bar(flower,flowernumber,color='m')
 p.xlabel('Flowers Name')
