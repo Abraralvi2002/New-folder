@@ -11,7 +11,7 @@ m_type = [22,34,12]
 
 plt.title('Flower Chart')
 plt.bar('Rose',rose_type)
-plt.bar(,lotus_type)
+plt.bar('lotus',lotus_type)
 plt.bar(Flower,lily_type)
 plt.bar(Flower,sun_type)
 plt.bar(Flower,dandelion)
